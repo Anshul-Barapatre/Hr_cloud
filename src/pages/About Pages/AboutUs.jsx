@@ -13,7 +13,7 @@ const About = () => {
             HR Cloud was founded to simplify and automate human resource management for organizations of all sizes.
             We believe in leveraging technology to reduce administrative burdens and empower HR teams to focus on people, not paperwork.
           </p>
-        </section>
+        </section> 
 
         {/* Mission & Vision */}
         <section className="grid md:grid-cols-2 gap-8">
