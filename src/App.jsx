@@ -2,10 +2,11 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home pages/Home';
 import Services from './pages/Services pages/Services';
 import Contact from './pages/ContactUs pages/Contact';
-import About from './pages/About Pages/AboutUs';
+// import About from './pages/About Pages/AboutUs'/;
 
 import Navbar from './component/Navbar';
 import Footer from './component/Footer';
+import About from './pages/About Pages/aboutUs';
 
 const  App =() => {
   return (
